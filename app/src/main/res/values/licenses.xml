@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="license_title_fab">SAMD-Voice Recorder</string>
+    <string name="license_author_fab">Mohammad Ali</string>
+    <string name="license_content_fab">
+        Software Application for Movile Devices (SAMD)
+        \n\nBSE-6B
+
+        \n\nSubmitted to: Sir Zohaib Shehzad
+        \nSubmitted by: Mohammad Ali
+
+
+    </string>
+
+    <string name="license_title_tabs"></string>
+    <string name="license_author_tabs"></string>
+    <string name="license_content_tabs">
+
+    </string>
+</resources>
